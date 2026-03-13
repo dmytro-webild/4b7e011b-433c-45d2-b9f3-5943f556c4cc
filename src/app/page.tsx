@@ -142,7 +142,7 @@ export default function LandingPage() {
           tagAnimation="blur-reveal"
           members={[
             {
-              id: "goalkeeper-1",              name: "Goalkeeper",              role: "Position: Keeper",              description: "Elite shot-stopping and distribution skills",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cv1gk7&_wi=1",              imageAlt: "Goalkeeper portrait",              socialLinks: [
+              id: "goalkeeper-1",              name: "OP ",              role: "Position: Keeper",              description: "Elite shot-stopping and distribution skills",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413325087-4cqw34qa.png",              imageAlt: "Goalkeeper portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
