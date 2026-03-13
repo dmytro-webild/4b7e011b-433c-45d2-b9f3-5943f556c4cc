@@ -49,10 +49,10 @@ export default function LandingPage() {
           background={{ variant: "radial-gradient" }}
           leftCarouselItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=yvjd9l",              imageAlt: "Football match action"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=yvjd9l&_wi=1",              imageAlt: "Football match action"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=7ihe8u",              imageAlt: "Team training session"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=7ihe8u&_wi=1",              imageAlt: "Team training session"
             }
           ]}
           rightCarouselItems={[
@@ -60,7 +60,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=8a5kra",              imageAlt: "Goal celebration moment"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=lvb60q",              imageAlt: "Championship trophy"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=lvb60q&_wi=1",              imageAlt: "Championship trophy"
             }
           ]}
           tag="Premium Football Experience"
@@ -107,19 +107,19 @@ export default function LandingPage() {
               id: "match-day",              title: "Match Day",              descriptions: [
                 "Live action from competitive matches",                "High-quality professional photography",                "Download button for each image"
               ],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=yvjd9l",              imageAlt: "Match day action"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=yvjd9l&_wi=2",              imageAlt: "Match day action"
             },
             {
               id: "training",              title: "Training Sessions",              descriptions: [
                 "Behind-the-scenes training footage",                "Skill development and drills",                "Team preparation moments"
               ],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=7ihe8u",              imageAlt: "Training session"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=7ihe8u&_wi=2",              imageAlt: "Training session"
             },
             {
               id: "achievements",              title: "Achievement Moments",              descriptions: [
                 "Trophy victories and celebrations",                "Championship moments",                "Team milestones and records"
               ],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=lvb60q",              imageAlt: "Achievement trophy"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=lvb60q&_wi=2",              imageAlt: "Achievement trophy"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
@@ -142,37 +142,37 @@ export default function LandingPage() {
           tagAnimation="blur-reveal"
           members={[
             {
-              id: "goalkeeper-1",              name: "Goalkeeper",              role: "Position: Keeper",              description: "Elite shot-stopping and distribution skills",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cv1gk7",              imageAlt: "Goalkeeper portrait",              socialLinks: [
+              id: "goalkeeper-1",              name: "Goalkeeper",              role: "Position: Keeper",              description: "Elite shot-stopping and distribution skills",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cv1gk7&_wi=1",              imageAlt: "Goalkeeper portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "defender-1",              name: "Defender",              role: "Position: Defence",              description: "Strong defensive presence and tactical awareness",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb",              imageAlt: "Defender portrait",              socialLinks: [
+              id: "defender-1",              name: "Defender",              role: "Position: Defence",              description: "Strong defensive presence and tactical awareness",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb&_wi=1",              imageAlt: "Defender portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "midfielder-1",              name: "Midfielder",              role: "Position: Midfield",              description: "Creative play-making and ball control expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-1",              name: "Midfielder",              role: "Position: Midfield",              description: "Creative play-making and ball control expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=1",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "forward-1",              name: "Forward",              role: "Position: Attack",              description: "Clinical finishing and goal-scoring prowess",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=kq9y02",              imageAlt: "Forward portrait",              socialLinks: [
+              id: "forward-1",              name: "Forward",              role: "Position: Attack",              description: "Clinical finishing and goal-scoring prowess",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=kq9y02&_wi=1",              imageAlt: "Forward portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "midfielder-2",              name: "Midfielder",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-2",              name: "Midfielder",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=2",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "defender-2",              name: "Defender",              role: "Position: Defence",              description: "Aerial dominance and set-piece expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb",              imageAlt: "Defender portrait",              socialLinks: [
+              id: "defender-2",              name: "Defender",              role: "Position: Defence",              description: "Aerial dominance and set-piece expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb&_wi=2",              imageAlt: "Defender portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
@@ -252,19 +252,19 @@ export default function LandingPage() {
               id: "coach-1",              name: "Coach Ahmed",              handle: "Head Coach",              testimonial: "B M Football Club represents the future of local football. The dedication and professionalism I see daily from our players is remarkable. We're not just winning matches; we're building champions.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gvvpvo",              imageAlt: "Coach Ahmed",              icon: Award
             },
             {
-              id: "player-1",              name: "Rahman",              handle: "Forward, Club Captain",              testimonial: "Being part of this club feels like being part of a family. We push each other every day to be better. The pitch is ours, and our victory is earned through teamwork.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=poyamt",              imageAlt: "Rahman",              icon: Heart
+              id: "player-1",              name: "Rahman",              handle: "Forward, Club Captain",              testimonial: "Being part of this club feels like being part of a family. We push each other every day to be better. The pitch is ours, and our victory is earned through teamwork.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=poyamt&_wi=1",              imageAlt: "Rahman",              icon: Heart
             },
             {
-              id: "player-2",              name: "Karim",              handle: "Midfielder",              testimonial: "The training environment here is world-class. Every session makes us sharper, faster, stronger. This is where dreams become reality.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik",              imageAlt: "Karim",              icon: Sparkles
+              id: "player-2",              name: "Karim",              handle: "Midfielder",              testimonial: "The training environment here is world-class. Every session makes us sharper, faster, stronger. This is where dreams become reality.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=3",              imageAlt: "Karim",              icon: Sparkles
             },
             {
-              id: "supporter-1",              name: "Fatima",              handle: "Supporter & Community Member",              testimonial: "Watching B M Football Club grow has been incredible. They inspire our youth and represent our community with pride. We're proud supporters.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=poyamt",              imageAlt: "Fatima",              icon: Zap
+              id: "supporter-1",              name: "Fatima",              handle: "Supporter & Community Member",              testimonial: "Watching B M Football Club grow has been incredible. They inspire our youth and represent our community with pride. We're proud supporters.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=poyamt&_wi=2",              imageAlt: "Fatima",              icon: Zap
             },
             {
-              id: "player-3",              name: "Hassan",              handle: "Goalkeeper",              testimonial: "The discipline and focus instilled here is exceptional. Every practice is purposeful. We're committed to excellence.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cv1gk7",              imageAlt: "Hassan",              icon: Shield
+              id: "player-3",              name: "Hassan",              handle: "Goalkeeper",              testimonial: "The discipline and focus instilled here is exceptional. Every practice is purposeful. We're committed to excellence.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cv1gk7&_wi=2",              imageAlt: "Hassan",              icon: Shield
             },
             {
-              id: "youth-player",              name: "Aziz",              handle: "Youth Development Program",              testimonial: "B M Football Club opened doors for me. I came as a young hopeful and now I'm playing competitively. This club believes in potential.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=kq9y02",              imageAlt: "Aziz",              icon: Rocket
+              id: "youth-player",              name: "Aziz",              handle: "Youth Development Program",              testimonial: "B M Football Club opened doors for me. I came as a young hopeful and now I'm playing competitively. This club believes in potential.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=kq9y02&_wi=2",              imageAlt: "Aziz",              icon: Rocket
             }
           ]}
           animationType="slide-up"
