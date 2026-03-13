@@ -52,7 +52,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773410063728-8qup12wb.png",              imageAlt: "Football match action"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773410005514-sr0numwv.png",              imageAlt: "Team training session"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413015758-rpulzxmi.png",              imageAlt: "Team training session"
             }
           ]}
           rightCarouselItems={[
@@ -107,7 +107,7 @@ export default function LandingPage() {
               id: "match-day",              title: "Match Day",              descriptions: [
                 "Live action from competitive matches",                "High-quality professional photography",                "Download button for each image"
               ],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773410770650-whrqjcis.png",              imageAlt: "Match day action"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773412891512-yhobmomv.png",              imageAlt: "Match day action"
             },
             {
               id: "training",              title: "Training Sessions",              descriptions: [
