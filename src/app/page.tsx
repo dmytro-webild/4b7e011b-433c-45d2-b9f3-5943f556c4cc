@@ -57,10 +57,10 @@ export default function LandingPage() {
           ]}
           rightCarouselItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=8a5kra",              imageAlt: "Goal celebration moment"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413570407-bub73kow.png",              imageAlt: "Goal celebration moment"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=lvb60q&_wi=1",              imageAlt: "Championship trophy"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413600980-mguiyq1b.png",              imageAlt: "Championship trophy"
             }
           ]}
           tag="Premium Football Experience"
