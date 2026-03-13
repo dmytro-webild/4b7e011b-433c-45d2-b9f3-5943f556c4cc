@@ -49,7 +49,7 @@ export default function LandingPage() {
           background={{ variant: "radial-gradient" }}
           leftCarouselItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773409983384-ytp7yc7n.png",              imageAlt: "Football match action"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773410063728-8qup12wb.png",              imageAlt: "Football match action"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773410005514-sr0numwv.png",              imageAlt: "Team training session"
