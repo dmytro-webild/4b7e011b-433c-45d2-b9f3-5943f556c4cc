@@ -119,7 +119,7 @@ export default function LandingPage() {
               id: "achievements",              title: "Achievement Moments",              descriptions: [
                 "Trophy victories and celebrations",                "Championship moments",                "Team milestones and records"
               ],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=lvb60q&_wi=2",              imageAlt: "Achievement trophy"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773410723468-h1ikpfqb.png",              imageAlt: "Achievement trophy"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
