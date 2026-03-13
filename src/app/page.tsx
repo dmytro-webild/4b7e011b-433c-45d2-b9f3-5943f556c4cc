@@ -142,13 +142,13 @@ export default function LandingPage() {
           tagAnimation="blur-reveal"
           members={[
             {
-              id: "goalkeeper-1",              name: "OP ",              role: "Position: Keeper",              description: "Elite shot-stopping and distribution skills",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413325087-4cqw34qa.png",              imageAlt: "Goalkeeper portrait",              socialLinks: [
+              id: "goalkeeper-1",              name: "OP ",              role: "Position: Keeper",              description: "Elite shot-stopping and distribution skills",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773414096110-qdn6p2el.png",              imageAlt: "Goalkeeper portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "defender-1",              name: "MOKUL ",              role: "Position: Defence",              description: "Strong defensive presence and tactical awareness",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413966026-jdjom3rg.png",              imageAlt: "Defender portrait",              socialLinks: [
+              id: "defender-1",              name: "MANIK ",              role: "Position: Defence",              description: "Strong defensive presence and tactical awareness",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773414199532-j8ibsjcq.png",              imageAlt: "Defender portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
@@ -166,13 +166,13 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "midfielder-2",              name: "SABBIR ",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=2",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-2",              name: "SABBIR ",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773414145975-gu9gabhk.png",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "defender-2",              name: "MOKUL ",              role: "Position: Defence",              description: "Aerial dominance and set-piece expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb&_wi=2",              imageAlt: "Defender portrait",              socialLinks: [
+              id: "defender-2",              name: "MANIK ",              role: "Position: Defence",              description: "Aerial dominance and set-piece expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb&_wi=2",              imageAlt: "Defender portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
