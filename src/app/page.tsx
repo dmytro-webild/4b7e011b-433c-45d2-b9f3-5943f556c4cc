@@ -148,31 +148,31 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "defender-1",              name: "Defender",              role: "Position: Defence",              description: "Strong defensive presence and tactical awareness",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb&_wi=1",              imageAlt: "Defender portrait",              socialLinks: [
+              id: "defender-1",              name: "MOKUL ",              role: "Position: Defence",              description: "Strong defensive presence and tactical awareness",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413966026-jdjom3rg.png",              imageAlt: "Defender portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "midfielder-1",              name: "Midfielder",              role: "Position: Midfield",              description: "Creative play-making and ball control expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=1",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-1",              name: "SHABBIR ",              role: "Position: Midfield",              description: "Creative play-making and ball control expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413780608-oy88kt35.png",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "forward-1",              name: "Forward",              role: "Position: Attack",              description: "Clinical finishing and goal-scoring prowess",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=kq9y02&_wi=1",              imageAlt: "Forward portrait",              socialLinks: [
+              id: "forward-1",              name: "TUHIN ",              role: "Position: Attack",              description: "Clinical finishing and goal-scoring prowess",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413852165-o30vjn6a.png",              imageAlt: "Forward portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "midfielder-2",              name: "Midfielder",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=2",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-2",              name: "SHABBIR ",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=2",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "defender-2",              name: "Defender",              role: "Position: Defence",              description: "Aerial dominance and set-piece expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb&_wi=2",              imageAlt: "Defender portrait",              socialLinks: [
+              id: "defender-2",              name: "MOKUL ",              role: "Position: Defence",              description: "Aerial dominance and set-piece expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb&_wi=2",              imageAlt: "Defender portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
