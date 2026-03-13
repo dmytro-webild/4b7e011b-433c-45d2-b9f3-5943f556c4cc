@@ -154,7 +154,7 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "midfielder-1",              name: "SHABBIR ",              role: "Position: Midfield",              description: "Creative play-making and ball control expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413780608-oy88kt35.png",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-1",              name: "SABBIR ",              role: "Position: Midfield",              description: "Creative play-making and ball control expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413780608-oy88kt35.png",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
@@ -166,7 +166,7 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "midfielder-2",              name: "SHABBIR ",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=2",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-2",              name: "SABBIR ",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik&_wi=2",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
