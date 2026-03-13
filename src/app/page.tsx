@@ -107,7 +107,7 @@ export default function LandingPage() {
               id: "match-day",              title: "Match Day",              descriptions: [
                 "Live action from competitive matches",                "High-quality professional photography",                "Download button for each image"
               ],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773412891512-yhobmomv.png",              imageAlt: "Match day action"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413110104-156r3pkp.png",              imageAlt: "Match day action"
             },
             {
               id: "training",              title: "Training Sessions",              descriptions: [
