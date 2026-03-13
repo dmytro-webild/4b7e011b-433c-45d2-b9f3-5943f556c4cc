@@ -113,7 +113,7 @@ export default function LandingPage() {
               id: "training",              title: "Training Sessions",              descriptions: [
                 "Behind-the-scenes training footage",                "Skill development and drills",                "Team preparation moments"
               ],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=7ihe8u&_wi=2",              imageAlt: "Training session"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773409406284-0grlkcyk.png",              imageAlt: "Training session"
             },
             {
               id: "achievements",              title: "Achievement Moments",              descriptions: [
