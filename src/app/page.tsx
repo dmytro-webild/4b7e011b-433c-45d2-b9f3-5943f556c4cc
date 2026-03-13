@@ -52,7 +52,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773409983384-ytp7yc7n.png",              imageAlt: "Football match action"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=7ihe8u&_wi=1",              imageAlt: "Team training session"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773410005514-sr0numwv.png",              imageAlt: "Team training session"
             }
           ]}
           rightCarouselItems={[
