@@ -72,9 +72,9 @@ export default function LandingPage() {
           ]}
           buttonAnimation="slide-up"
           avatars={[
-            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y1rkik", alt: "Team member" },
-            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cv1gk7", alt: "Team member" },
-            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb", alt: "Team member" }
+            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773474848912-xaqbfprx.png", alt: "Team member" },
+            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773474891548-zmeiret3.png", alt: "Team member" },
+            { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773474871575-50lvsm2p.png", alt: "Team member" }
           ]}
           avatarText="Join 50+ passionate athletes"
           carouselPosition="right"
@@ -148,13 +148,13 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "defender-1",              name: "MANIK ",              role: "Position: Defence",              description: "Strong defensive presence and tactical awareness",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773414199532-j8ibsjcq.png",              imageAlt: "Defender portrait",              socialLinks: [
+              id: "defender-1",              name: "SHIMUL ",              role: "Position: Defence",              description: "Strong defensive presence and tactical awareness",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773414199532-j8ibsjcq.png",              imageAlt: "Defender portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "midfielder-1",              name: "SABBIR ",              role: "Position: Midfield",              description: "Creative play-making and ball control expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413780608-oy88kt35.png",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-1",              name: "MOKUL ",              role: "Position: Midfield",              description: "Creative play-making and ball control expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773413780608-oy88kt35.png",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
@@ -166,13 +166,13 @@ export default function LandingPage() {
               ]
             },
             {
-              id: "midfielder-2",              name: "SABBIR ",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773414145975-gu9gabhk.png",              imageAlt: "Midfielder portrait",              socialLinks: [
+              id: "midfielder-2",              name: "MOKUL ",              role: "Position: Midfield",              description: "Ball retention and pressing intensity",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773414145975-gu9gabhk.png",              imageAlt: "Midfielder portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
             },
             {
-              id: "defender-2",              name: "MANIK ",              role: "Position: Defence",              description: "Aerial dominance and set-piece expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gom2yb&_wi=2",              imageAlt: "Defender portrait",              socialLinks: [
+              id: "defender-2",              name: "SHIMUL ",              role: "Position: Defence",              description: "Aerial dominance and set-piece expertise",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AtMwSb7XtcCusJpAQKgNh79ZwX/uploaded-1773474794362-094dhdvt.png",              imageAlt: "Defender portrait",              socialLinks: [
                 { icon: Zap, url: "#" },
                 { icon: Heart, url: "#" }
               ]
